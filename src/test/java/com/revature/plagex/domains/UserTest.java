@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.revature.plagex.beans;
+package com.revature.plagex.domains;
 
 import static org.junit.Assert.*;
 

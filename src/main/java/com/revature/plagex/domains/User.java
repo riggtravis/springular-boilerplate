@@ -1,7 +1,7 @@
 /**
  * A user object will almost always be useful
  */
-package com.revature.plagex.beans;
+package com.revature.plagex.domains;
 
 import javax.persistence.Entity;
 
